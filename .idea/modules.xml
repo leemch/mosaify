@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Mosaify.iml" filepath="$PROJECT_DIR$/Mosaify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mosaify.iml" filepath="$PROJECT_DIR$/mosaify.iml" />
     </modules>
   </component>
 </project>
